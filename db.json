@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "vitor lindo",
+      "author": "vitor"
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "body": "oi amigos",
+      "postId": 3
+    }
+  ],
+  "profile": {
+    "name": "vitor lindo"
+  }
+}
